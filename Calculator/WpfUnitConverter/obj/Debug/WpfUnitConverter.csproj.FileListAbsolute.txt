@@ -1,0 +1,16 @@
+C:\Users\raze6\Desktop\New folder\WpfUnitConverter\WpfUnitConverter\bin\Debug\WpfUnitConverter.exe.config
+C:\Users\raze6\Desktop\New folder\WpfUnitConverter\WpfUnitConverter\bin\Debug\WpfUnitConverter.exe
+C:\Users\raze6\Desktop\New folder\WpfUnitConverter\WpfUnitConverter\bin\Debug\WpfUnitConverter.pdb
+C:\Users\raze6\Desktop\New folder\WpfUnitConverter\WpfUnitConverter\obj\Debug\WpfUnitConverter.csprojAssemblyReference.cache
+C:\Users\raze6\Desktop\New folder\WpfUnitConverter\WpfUnitConverter\obj\Debug\Views\UnitConverterView.g.cs
+C:\Users\raze6\Desktop\New folder\WpfUnitConverter\WpfUnitConverter\obj\Debug\App.g.cs
+C:\Users\raze6\Desktop\New folder\WpfUnitConverter\WpfUnitConverter\obj\Debug\WpfUnitConverter_MarkupCompile.cache
+C:\Users\raze6\Desktop\New folder\WpfUnitConverter\WpfUnitConverter\obj\Debug\Views\UnitConverterView.baml
+C:\Users\raze6\Desktop\New folder\WpfUnitConverter\WpfUnitConverter\obj\Debug\WpfUnitConverter.g.resources
+C:\Users\raze6\Desktop\New folder\WpfUnitConverter\WpfUnitConverter\obj\Debug\WpfUnitConverter.Properties.Resources.resources
+C:\Users\raze6\Desktop\New folder\WpfUnitConverter\WpfUnitConverter\obj\Debug\WpfUnitConverter.csproj.GenerateResource.cache
+C:\Users\raze6\Desktop\New folder\WpfUnitConverter\WpfUnitConverter\obj\Debug\WpfUnitConverter.csproj.CoreCompileInputs.cache
+C:\Users\raze6\Desktop\New folder\WpfUnitConverter\WpfUnitConverter\obj\Debug\WpfUnitConverter.exe
+C:\Users\raze6\Desktop\New folder\WpfUnitConverter\WpfUnitConverter\obj\Debug\WpfUnitConverter.pdb
+C:\Users\raze6\Desktop\New folder\WpfUnitConverter\WpfUnitConverter\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\raze6\Desktop\New folder\WpfUnitConverter\WpfUnitConverter\obj\Debug\WpfUnitConverter_MarkupCompile.lref
